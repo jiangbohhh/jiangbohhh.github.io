@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on My New Hugo Site</title>
-    <link>http://example.org/tags/hugo/</link>
-    <description>Recent content in Hugo on My New Hugo Site</description>
+    <title>Hugo on jiangbohhh Blog</title>
+    <link>https://jiangbohhh.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on jiangbohhh Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh_CN</language>
     <lastBuildDate>Sun, 24 May 2020 00:50:35 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiangbohhh.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何使用hugo搭建blog</title>
-      <link>http://example.org/posts/use-hugo-create-blog/</link>
+      <link>https://jiangbohhh.github.io/posts/use-hugo-create-blog/</link>
       <pubDate>Sun, 24 May 2020 00:50:35 +0800</pubDate>
       
-      <guid>http://example.org/posts/use-hugo-create-blog/</guid>
+      <guid>https://jiangbohhh.github.io/posts/use-hugo-create-blog/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; ,号称最快的静态站点生成器后。 尝试搭建博客，发现不管是运行速度，还是打包速度都是非常快的。
 Hugo 官方的定义是：&lt;/p&gt;
 &lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.(Hugo 是使用 Go 编写的快速而现代的静态站点生成器，旨在使网站创建变得有趣。)&lt;/p&gt;</description>
