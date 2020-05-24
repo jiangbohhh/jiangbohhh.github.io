@@ -1,0 +1,4 @@
+baseURL = "https://jiangbohhh.github.io"
+languageCode = "zh_CN"
+title = "jiangbohhh Blog"
+theme= "ananke"
